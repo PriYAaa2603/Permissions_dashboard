@@ -1,4 +1,4 @@
-# permissions_dashboard
+# Application Permissions Dashboard
 
 A new Flutter project.
 
